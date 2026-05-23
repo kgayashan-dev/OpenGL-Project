@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build outputs
+*.o
+*.out
+*.exe
+*.app
+*.dSYM/
+
+# OpenGL compiled binaries
+main
+app
+advanced
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# clang
+*.plist
+
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+
+# JetBrains
+.idea/
+
+# Backup files
+*~
